@@ -1,0 +1,51 @@
+/* [project]/src/app/collections/Widgets/collection-list.module.css [app-client] (css) */
+@media (width <= 600px) {
+  .collection-list-module__dB-6Cq__collectionlistdesktop {
+    display: none;
+  }
+
+  .collection-list-module__dB-6Cq__collectionlistmobile {
+    display: flex;
+  }
+}
+
+@media (width >= 601px) {
+  .collection-list-module__dB-6Cq__collectionlistdesktop {
+    display: flex;
+  }
+
+  .collection-list-module__dB-6Cq__collectionlistmobile {
+    display: none;
+  }
+}
+
+
+/* [project]/src/app/nail-ideas/nail-ideas.module.css [app-client] (css) */
+.nail-ideas-module__Tv83XW__container {
+  padding: 20px;
+  text-align: center;
+  font-size: 20px;
+}
+
+@media (width <= 600px) {
+  .nail-ideas-module__Tv83XW__seasonalnaildesktop {
+    display: none;
+  }
+
+  .nail-ideas-module__Tv83XW__seasonalnailmobile {
+    display: block;
+  }
+}
+
+@media (width >= 601px) {
+  .nail-ideas-module__Tv83XW__seasonalnaildesktop {
+    display: block;
+  }
+
+  .nail-ideas-module__Tv83XW__seasonalnailmobile {
+    display: none;
+  }
+}
+
+
+/*# sourceMappingURL=src_app_9393af._.css.map*/
