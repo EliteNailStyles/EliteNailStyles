@@ -117,5 +117,25 @@ a {
   }
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
+h1 {
+  font-size: clamp(24px, 5vw, 54px) !important;
+}
+
+h2 {
+  font-size: clamp(20px, 2vw, 42px) !important;
+}
+
+h4 {
+  font-size: clamp(16px, 3vw, 24px) !important;
+}
+
+span {
+  font-size: clamp(9px, 2vw, 11px) !important;
+}
+
 
 /*# sourceMappingURL=%5Broot%20of%20the%20server%5D__a2f1cd._.css.map*/
