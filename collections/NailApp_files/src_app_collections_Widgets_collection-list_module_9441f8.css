@@ -1,0 +1,23 @@
+/* [project]/src/app/collections/Widgets/collection-list.module.css [app-client] (css) */
+@media (width <= 600px) {
+  .collection-list-module__dB-6Cq__collectionlistdesktop {
+    display: none;
+  }
+
+  .collection-list-module__dB-6Cq__collectionlistmobile {
+    display: flex;
+  }
+}
+
+@media (width >= 601px) {
+  .collection-list-module__dB-6Cq__collectionlistdesktop {
+    display: flex;
+  }
+
+  .collection-list-module__dB-6Cq__collectionlistmobile {
+    display: none;
+  }
+}
+
+
+/*# sourceMappingURL=src_app_collections_Widgets_collection-list_module_9441f8.css.map*/
